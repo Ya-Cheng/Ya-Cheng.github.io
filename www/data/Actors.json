@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"Actor2_4","characterIndex":1,"characterName":"walking char","classId":2,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"characterface-3","traits":[],"initialLevel":1,"maxLevel":99,"name":"櫻落 Saku Hana","nickname":"Hana","note":"","profile":"俏皮又活潑的年輕女孩，治療病患時卻十分細心，頗受人們喜歡。因羅多可市的情況危急，便以護士的身份邀請醫師來協助對抗疫情。\n在遙遠的回憶處，她究竟何方神聖？..."},
+{"id":2,"battlerName":"battle- rosa stara","characterIndex":0,"characterName":"walking char","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"characterface-3","traits":[],"initialLevel":1,"maxLevel":99,"name":"星羽 Rosa Stara","nickname":"Rosa","note":"","profile":"身份未知，業餘發明家，家住颯凜的隔壁。\n愛玩的淘氣小子。愛亂搞奇怪的不實用發明品，且神奇的有人委託。裝備都是自製的，品質難得地可靠。"},
+{"id":3,"battlerName":"battle- wind","characterIndex":2,"characterName":"walking char","classId":4,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"characterface-3","traits":[],"initialLevel":1,"maxLevel":99,"name":"颯凜 Szalin Wind","nickname":"Wind","note":"","profile":"櫻落的閨蜜，從小就認識了，兩姐妹一起畢業於醫學系，而現為喬安藥廠之總經理。\n活潑卻做事謹慎。成品永遠離疫苗差一步。認真得可怕，一天睡不到五個小時。常睡在公司實驗室裡。一聽到櫻落的事就會特別關心。"},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
